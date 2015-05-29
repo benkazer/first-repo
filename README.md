@@ -1,2 +1,6 @@
 # first-repo
-my first repository 
+Ben Kazer
+
+Tufts University '17;
+
+New Haven, CT;
